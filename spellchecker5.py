@@ -6,7 +6,7 @@ now = datetime.now() #gets the current date and time
 T1 = time.process_time() #starts a timer
 
 
-file = 'EnglishWords.txt'    #engl
+file = 'EnglishWords.txt'    #englishhhhhhhh
 with open(file) as f:       #opens text file
     text = f.read()     #reads from text file
 alt = text.split()   #splits text in text file into seperate lines
